@@ -57,8 +57,8 @@ I am building a causal auditing framework that tests whether the self-modificati
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bareeraaftab123-dev&show_icons=true&theme=radical" alt="Bareera's GitHub stats" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bareeraaftab123-dev&layout=compact&theme=radical" alt="Top languages" height="160">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=bareeraaftab123-dev&show_icons=true&theme=radical" alt="Bareera's GitHub stats" height="160">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bareeraaftab123-dev&layout=compact&theme=radical" alt="Top languages" height="160">
 </p>
 
 ---
